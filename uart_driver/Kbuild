@@ -1,0 +1,5 @@
+EXTRA_CFLAGS = -Wall -g
+
+obj-m = uart16550.o
+
+uart16550-objs = uart.o com.o
