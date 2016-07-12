@@ -1,0 +1,26 @@
+format :
+
+M N
+M lines with N values of :
+
+0 = nothing
+1 = wall (cube)
+s = starting position
+p = portal
+
+ex:
+---------------------
+2 2
+1 s
+p 0
+---------------------
+
+Save your file as "name.lmap", then add it to list.txt like so :
+---------------------
+Name of map (The Best Map Ever)
+filename (name.lmap)
+---------------------
+and increment the counter at the top.
+
+Warning : avoid names like "Level x" since all campaign maps are named like that.
+Highscores will not be displayed right.

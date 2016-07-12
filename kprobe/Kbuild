@@ -1,0 +1,5 @@
+EXTRA_CFLAGS = -Wall -g -D_HASH_
+
+obj-m = tracer.o
+
+tracer-objs = trace.o hash.o

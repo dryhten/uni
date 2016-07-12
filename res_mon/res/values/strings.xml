@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ResourceSI</string>
+    <string name="action_settings">Settings</string>
+    <string name="info_dev">Informatii despre device</string>
+    <string name="model_dev">Model Device</string>
+    <string name="ver_android">Versiune Android</string>
+    <string name="ram_total">RAM Total</string>
+    <string name="ram_free">RAM Free</string>
+    <string name="disk_total">Spatiu pe Disk Total</string>
+    <string name="disk_free">Spatiu pe Disk Free</string>
+    <string name="cpu">CPU</string>
+    <string name="nivel_baterie">Nivel Baterie</string>
+    <string name="wifi_tx">Wireless TX Bytes</string>
+    <string name="wifi_rx">Wireless RX Bytes</string>
+    <string name="wifi_energy">Energy for Wireless</string>
+    <string name="app">Aplicatii</string>
+
+</resources>
