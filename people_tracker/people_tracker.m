@@ -1,6 +1,6 @@
 % Advanced Vision Assignment 1
 % Mihail Dunaev
-% 12 Feb 2016
+% 11 Feb 2016
 %
 % Program that identifies and tracks people dancing ceilidh. For
 % identification it performs background subtraction and basic blob processing
